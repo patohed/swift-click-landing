@@ -1,0 +1,27 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="60" fill="transparent"/>
+  
+  <!-- Swift Click Logo -->
+  <g>
+    <!-- Lightning bolt icon -->
+    <path d="M15 10L25 25H20L25 40L15 25H20L15 10Z" fill="url(#gradient1)" stroke="white" stroke-width="1"/>
+    
+    <!-- Swift text -->
+    <text x="35" y="22" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="white">Swift</text>
+    
+    <!-- Click text -->
+    <text x="35" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="url(#gradient1)">Click</text>
+    
+    <!-- Tagline -->
+    <text x="110" y="30" font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#888">Marketing Digital</text>
+  </g>
+  
+  <!-- Gradient definitions -->
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

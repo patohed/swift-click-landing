@@ -16,7 +16,7 @@ Este sitio web estático presenta los servicios, casos de éxito y formulario de
 
 ## Visualización
 
-Este sitio está alojado en GitHub Pages y puede verse en vivo [aquí](https://tuusuario.github.io/swift-click-landing).
+Este sitio está alojado en GitHub Pages y puede verse en vivo [aquí](https://patohed.github.io/swift-click-landing).
 
 ## Desarrollo
 

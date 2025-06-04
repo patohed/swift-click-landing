@@ -1,0 +1,39 @@
+{
+  "name": "swift-click-landing",
+  "version": "1.0.0",
+  "description": "Landing page moderna para Swift Click - Agencia de Marketing Digital",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000",
+    "build": "echo 'Proyecto listo para producción'",
+    "deploy": "echo 'Configurar deployment según hosting elegido'"
+  },
+  "keywords": [
+    "marketing-digital",
+    "landing-page",
+    "swift-click",
+    "html",
+    "css",
+    "javascript",
+    "responsive",
+    "modern-web"
+  ],
+  "author": "Swift Click Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swift-click/landing-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/swift-click/landing-page/issues"
+  },
+  "homepage": "https://swift-click.github.io/landing-page/"
+}
